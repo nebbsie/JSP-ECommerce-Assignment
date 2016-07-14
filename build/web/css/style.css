@@ -1,0 +1,101 @@
+div.container{
+	background-color: #f8f8f9;
+	width: 100%;
+	height: auto;
+	height: 1000px;
+	font-family: 'Lato', sans-serif;
+}
+div.login{
+	text-align: center;
+	width: 100%;
+	padding-top: 100px;
+}
+h1.homeTitle{
+	color: white;
+	margin-left: 5px;
+}
+h2.homeSub{
+	color: #d3d5d4;
+}
+div.navBar{
+	width: auto;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+	height: 50px;
+	background-color: #d3d5d4;
+	border-radius: 5px 5px 5px 5px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #d3d5d4;
+
+}
+
+li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #c7c9c8;
+    color: white;
+    text-decoration: none;
+}
+
+div.left{
+	text-align: center;
+	width: 50%;
+	float: left;
+	padding-top: 100px;
+}
+div.right{
+	text-align: center;
+	width: 50%;
+	float: right;
+	padding-top: 100px;
+}
+div.insideContainer{
+	margin-left: 50px;
+	margin-right: 50px;
+	padding-top: 20px;
+}
+div.containerRight{
+	margin-right: 50px;
+}
+div.createProduct{
+	margin-left: 50px;
+	margin-right: 50px;
+}
+div.createStore{
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+div.changeStock{
+	margin-top: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+div.viewProducts{
+
+}
+div.viewStores{
+	padding-top: 10px;
+}
+div.viewStock{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
